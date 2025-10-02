@@ -1,0 +1,108 @@
+{
+  "buzzwords": [
+    "anxious",
+    "sad",
+    "angry",
+    "stressed",
+    "panic",
+    "overwhelmed",
+    "lonely",
+    "sleep problems",
+    "school pressure",
+    "family conflict",
+    "bullying",
+    "sports pressure",
+    "focus",
+    "motivation",
+    "breakup",
+    "friend drama",
+    "body image",
+    "social media",
+    "rumination",
+    "worry"
+  ],
+  "items": [
+    {
+      "id": "c1",
+      "title": "Box Breathing 4-4-4-4",
+      "summary": "A short paced-breathing exercise to reduce immediate stress.",
+      "age_range": "13-18",
+      "tags": [
+        "anxious",
+        "panic",
+        "overwhelmed",
+        "worry",
+        "sports pressure"
+      ],
+      "modality": "audio",
+      "minutes": 3
+    },
+    {
+      "id": "c2",
+      "title": "Grounding: 5-4-3-2-1",
+      "summary": "Notice five senses to calm racing thoughts.",
+      "age_range": "13-18",
+      "tags": [
+        "anxious",
+        "panic",
+        "rumination",
+        "worry"
+      ],
+      "modality": "text",
+      "minutes": 4
+    },
+    {
+      "id": "c3",
+      "title": "Test Day Calm",
+      "summary": "Quick pre-exam routine for breath, posture, and focus.",
+      "age_range": "13-18",
+      "tags": [
+        "school pressure",
+        "focus",
+        "anxious"
+      ],
+      "modality": "text",
+      "minutes": 5
+    },
+    {
+      "id": "c4",
+      "title": "Sleep Wind-Down",
+      "summary": "Short routine for screens, light, and body cues before bed.",
+      "age_range": "13-18",
+      "tags": [
+        "sleep problems",
+        "anxious",
+        "rumination"
+      ],
+      "modality": "text",
+      "minutes": 7
+    },
+    {
+      "id": "c5",
+      "title": "CBT Thought Reframe Starter",
+      "summary": "Identify a thought, check evidence, try a gentler reframe.",
+      "age_range": "16-18",
+      "tags": [
+        "sad",
+        "anxious",
+        "rumination",
+        "worry"
+      ],
+      "modality": "worksheet",
+      "minutes": 8
+    },
+    {
+      "id": "c6",
+      "title": "If A Friend Bullies You Online",
+      "summary": "Steps to respond safely and set boundaries.",
+      "age_range": "13-18",
+      "tags": [
+        "bullying",
+        "social media",
+        "friend drama"
+      ],
+      "modality": "text",
+      "minutes": 6
+    }
+  ]
+}
