@@ -1,0 +1,298 @@
+{
+  "buzzwords": [
+    "anxious",
+    "sad",
+    "angry",
+    "stressed",
+    "panic",
+    "overwhelmed",
+    "lonely",
+    "sleep problems",
+    "school pressure",
+    "family conflict",
+    "bullying",
+    "sports pressure",
+    "focus",
+    "motivation",
+    "breakup",
+    "friend drama",
+    "body image",
+    "social media",
+    "rumination",
+    "worry"
+  ],
+  "items": [
+    {
+      "id": "bw1",
+      "title": "Box Breathing 4-4-4-4",
+      "summary": "Inhale 4 • Hold 4 • Exhale 4 • Hold 4.",
+      "age_range": "13-18",
+      "tags": [
+        "anxious",
+        "panic",
+        "overwhelmed",
+        "worry",
+        "sports pressure"
+      ],
+      "modality": "audio",
+      "minutes": 3,
+      "technique": "Breath Work"
+    },
+    {
+      "id": "bw2",
+      "title": "4-7-8 Breathing",
+      "summary": "Paced breathing to settle the nervous system.",
+      "age_range": "13-18",
+      "tags": [
+        "anxious",
+        "sleep problems",
+        "rumination"
+      ],
+      "modality": "text",
+      "minutes": 4,
+      "technique": "Breath Work"
+    },
+    {
+      "id": "bw3",
+      "title": "Coherent Breathing (5s in/5s out)",
+      "summary": "Even-paced breathing for calm and focus.",
+      "age_range": "13-18",
+      "tags": [
+        "focus",
+        "anxious",
+        "sports pressure"
+      ],
+      "modality": "audio",
+      "minutes": 5,
+      "technique": "Breath Work"
+    },
+    {
+      "id": "bw4",
+      "title": "Pursed-Lip Breathing",
+      "summary": "Slow exhale through pursed lips to reduce tension.",
+      "age_range": "13-18",
+      "tags": [
+        "panic",
+        "anxious",
+        "overwhelmed"
+      ],
+      "modality": "text",
+      "minutes": 2,
+      "technique": "Breath Work"
+    },
+    {
+      "id": "mf1",
+      "title": "5-4-3-2-1 Senses",
+      "summary": "Ground with five senses to shift out of spiral.",
+      "age_range": "13-18",
+      "tags": [
+        "panic",
+        "anxious",
+        "overwhelmed",
+        "worry"
+      ],
+      "modality": "text",
+      "minutes": 4,
+      "technique": "Mindfulness"
+    },
+    {
+      "id": "mf2",
+      "title": "Body Scan (Mini)",
+      "summary": "Brief scan from head to toe; notice + release.",
+      "age_range": "13-18",
+      "tags": [
+        "stress",
+        "overwhelmed",
+        "sleep problems"
+      ],
+      "modality": "audio",
+      "minutes": 6,
+      "technique": "Mindfulness"
+    },
+    {
+      "id": "mf3",
+      "title": "Mindful Walking",
+      "summary": "Slow, steady steps while noticing contact and breath.",
+      "age_range": "13-18",
+      "tags": [
+        "anxious",
+        "sad",
+        "worry"
+      ],
+      "modality": "text",
+      "minutes": 7,
+      "technique": "Mindfulness"
+    },
+    {
+      "id": "mf4",
+      "title": "Safe Place Imagery",
+      "summary": "Visualize a calm, safe scene using all senses.",
+      "age_range": "13-18",
+      "tags": [
+        "anxious",
+        "panic",
+        "rumination"
+      ],
+      "modality": "audio",
+      "minutes": 5,
+      "technique": "Mindfulness"
+    },
+    {
+      "id": "mf5",
+      "title": "Progressive Muscle Relaxation (Mini)",
+      "summary": "Tense and release major muscle groups.",
+      "age_range": "13-18",
+      "tags": [
+        "stress",
+        "anxious",
+        "sleep problems"
+      ],
+      "modality": "audio",
+      "minutes": 8,
+      "technique": "Mindfulness"
+    },
+    {
+      "id": "tt1",
+      "title": "Thought Record (CBT)",
+      "summary": "Capture situation, emotions, thoughts, and alternatives.",
+      "age_range": "16-18",
+      "tags": [
+        "sad",
+        "anxious",
+        "rumination",
+        "worry"
+      ],
+      "modality": "worksheet",
+      "minutes": 8,
+      "technique": "Thinking Techniques"
+    },
+    {
+      "id": "tt2",
+      "title": "Evidence For/Against",
+      "summary": "Weigh facts like a scientist; find a fairer thought.",
+      "age_range": "16-18",
+      "tags": [
+        "rumination",
+        "worry",
+        "anxious"
+      ],
+      "modality": "text",
+      "minutes": 7,
+      "technique": "Thinking Techniques"
+    },
+    {
+      "id": "tt3",
+      "title": "Cognitive Defusion (ACT)",
+      "summary": "Notice thoughts as passing words/images, not facts.",
+      "age_range": "13-18",
+      "tags": [
+        "worry",
+        "rumination",
+        "anxious"
+      ],
+      "modality": "text",
+      "minutes": 5,
+      "technique": "Thinking Techniques"
+    },
+    {
+      "id": "tt4",
+      "title": "Problem-Solving Steps",
+      "summary": "Define → brainstorm → pick → plan → try → review.",
+      "age_range": "13-18",
+      "tags": [
+        "school pressure",
+        "family conflict",
+        "friend drama"
+      ],
+      "modality": "text",
+      "minutes": 10,
+      "technique": "Thinking Techniques"
+    },
+    {
+      "id": "tt5",
+      "title": "Opposite Action (DBT)",
+      "summary": "Choose an action opposite to an unhelpful urge.",
+      "age_range": "13-18",
+      "tags": [
+        "angry",
+        "sad",
+        "anxious"
+      ],
+      "modality": "text",
+      "minutes": 6,
+      "technique": "Thinking Techniques"
+    },
+    {
+      "id": "ot1",
+      "title": "Behavioral Activation (BA)",
+      "summary": "Plan one small, meaningful activity today.",
+      "age_range": "13-18",
+      "tags": [
+        "sad",
+        "low motivation",
+        "bored",
+        "anxious"
+      ],
+      "modality": "worksheet",
+      "minutes": 8,
+      "technique": "Other"
+    },
+    {
+      "id": "ot2",
+      "title": "Values → Tiny Goal (ACT)",
+      "summary": "Pick a value and set one tiny action aligned with it.",
+      "age_range": "13-18",
+      "tags": [
+        "motivation",
+        "focus",
+        "worry"
+      ],
+      "modality": "text",
+      "minutes": 8,
+      "technique": "Other"
+    },
+    {
+      "id": "ot3",
+      "title": "Self‑Compassion Break",
+      "summary": "Acknowledge, normalize, and speak kindly to yourself.",
+      "age_range": "13-18",
+      "tags": [
+        "sad",
+        "angry",
+        "anxious",
+        "body image"
+      ],
+      "modality": "text",
+      "minutes": 4,
+      "technique": "Other"
+    },
+    {
+      "id": "ot4",
+      "title": "Journaling Prompt",
+      "summary": "Write 5 sentences: What happened? Feelings? Next step?",
+      "age_range": "13-18",
+      "tags": [
+        "friend drama",
+        "family conflict",
+        "rumination"
+      ],
+      "modality": "worksheet",
+      "minutes": 6,
+      "technique": "Other"
+    },
+    {
+      "id": "ot5",
+      "title": "Gratitude 3×3",
+      "summary": "List 3 things you’re grateful for and why.",
+      "age_range": "13-18",
+      "tags": [
+        "sad",
+        "worry",
+        "overwhelmed"
+      ],
+      "modality": "text",
+      "minutes": 3,
+      "technique": "Other"
+    }
+  ]
+}
