@@ -111,7 +111,7 @@ def header():
     st.markdown("<div class='header-bar'><span class='header-title'>WTF is Up</span></div>", unsafe_allow_html=True)
 
 def footer():
-    st.markdown("<div class='footer-note'>Educational support only • Not a diagnosis or treatment • In the U.S., call or text <b>988</b></div>", unsafe_allow_html=True)
+    st.markdown("<div class='footer-note'>Educational support only • Not a diagnosis or treatment • In the U.S., call or text <b>911</b></div>", unsafe_allow_html=True)
 
 def recommend(tags, minutes, age_bracket, technique=None):
     items = CONTENT["items"]
@@ -159,7 +159,7 @@ if st.session_state.phase == "welcome":
         "<div class='center-card'><h2>Welcome</h2>"
         "<p>This app shares supportive, clinician-approved self-help resources for teens. "
         "It is educational and not a diagnosis or a substitute for professional care. "
-        "If you are in crisis in the U.S., call or text <b>988</b>.</p></div>",
+        "If you are in crisis in the U.S., call or text <b>911</b>.</p></div>",
         unsafe_allow_html=True,
     )
     adjs = ["Ferocious","Curious","Gentle","Bold","Radiant","Calm","Brave","Witty","Kind","Steady","Swift","Bright"]
